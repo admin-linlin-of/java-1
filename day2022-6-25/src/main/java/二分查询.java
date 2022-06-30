@@ -6,6 +6,7 @@ public class 二分查询 {
 
     public static int search(int[] nums, int target) {
         // int[] nums = {-1,0,3,5,9,12};
+        int[] nums231 = {-1,0,3,5,9,12};
         int first = 0;
         int last = nums.length;
 
